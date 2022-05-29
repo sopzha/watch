@@ -1,10 +1,6 @@
 # watch
 Created for 6.08: Embedded Systems at MIT.
 
-# Video
-
-![My working project](https://youtu.be/DX8V341Kigo)
-
 # Specifications
 
 Below is how I addressed each specification:
