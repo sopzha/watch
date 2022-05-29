@@ -1,6 +1,10 @@
 # watch
 Created for 6.08: Embedded Systems at MIT.
 
+# Video
+
+Demo: <a href="https://youtu.be/DX8V341Kigo" target="_blank">https://youtu.be/DX8V341Kigo</a>
+
 # Specifications
 
 Below is how I addressed each specification:
